@@ -1,5 +1,5 @@
-# 🎓✨ Welcome to Bitok! 🌐💻
-the Computer Engineering Scientific Chapter @ Yazd University
+# 🎓 Welcome to Bitok! ✨
+the Computer Engineering Scientific Chapter @ Yazd University🌐💻
 
 Hey there, tech adventurer! 👋 You’ve landed at the official home of the Computer Engineering Scientific Chapter at Yazd University! 🚀 This is where **innovation meets imagination**—with epic projects, helpful resources, and a friendly bot to guide you! Let’s dive into the cool stuff we’re doing! 😎
 
